@@ -1,0 +1,14 @@
+# Test DB (pytest)
+backend/tests/test_tetris.db
+
+# Local SQLite (dev)
+tetris.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Pytest
+.pytest_cache/
